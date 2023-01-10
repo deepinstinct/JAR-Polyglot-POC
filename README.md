@@ -24,8 +24,3 @@ Make sure you have JAVA runtime installed.
 ```python
 java -jar polyglot.html
 ```
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
